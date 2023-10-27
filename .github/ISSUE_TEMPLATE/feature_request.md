@@ -1,14 +1,13 @@
 ---///---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: community_new
+name: community_new 
+about: @...#/start title: ''
+labels: community_new assignees 
 assignees: ''...
 
 ---@
 
 **Tell us about your request**
-A clear and concise description of what you want to happen or the change you would like to see
+A clear and concise description of what you want to happen or the change you would like to see /Kalil Linux 
 
 **Which service(s) is this request for?**
 Let us know which product(s) you want this for?
